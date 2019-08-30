@@ -1,0 +1,16 @@
+.Intro-Section {
+	width: 100%;
+	padding: 100px 0px;
+	.container {
+		max-width: 900px;
+		margin: 0 auto;
+		font-size: 20px;
+
+		img {
+			margin-top: 35px;
+		}
+	}
+	&.section-2 {
+		text-align: left;
+	}
+}
